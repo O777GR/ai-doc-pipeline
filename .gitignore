@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+.ai_cache/
+docs_output/
+.pytest_cache/
+.ruff_cache/
+*.gguf
